@@ -36,7 +36,7 @@ but now I'm interested in Research Engineering field and Computer Vision.
 ### My Stats :
 <div>
   <a href="https://github.com/ZionSS">
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZionSS&show_icons=true&theme=tokyonight"/>
+<!-- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZionSS&show_icons=true&theme=tokyonight"/>-->
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionSS&layout=compact&theme=tokyonight"/>
 </div>
 
